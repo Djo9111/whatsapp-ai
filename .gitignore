@@ -1,0 +1,16 @@
+# Dépendances
+node_modules/
+
+# Session WhatsApp (donne accès à ton compte, ne jamais pousser)
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Configuration locale (numéros de téléphone)
+config.json
+
+# Logs et fichiers système
+*.log
+npm-debug.log*
+.env
+.DS_Store
+Thumbs.db
